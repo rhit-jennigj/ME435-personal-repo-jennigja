@@ -14,6 +14,7 @@ def main():
 
     while True:
         selection = int(input("Selection: "))
+        
         if selection == 0:
             break
         elif selection == 1:
