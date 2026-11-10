@@ -1,6 +1,6 @@
 import json
 import time
-import Python.Exam3JackJenniges.mqtt as mh
+import Python.Exam3JackJenniges.mqtt_helper as mh
 from gpiozero import Motor
 
 # Define your broker and topic
